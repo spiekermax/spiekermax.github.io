@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "Comfortaa";
+  src: url("./resources/Comfortaa.ttf"); /*URL to font*/
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+#projects {
+  user-select: none;
+  width: 100%;
+  height: 100%;
+}
+
+.button-download {
+  /* Position */
+  margin: 25px;
+  /* Size */
+  width: 175px;
+  height: 50px;
+  /* Appearance */
+  color: white;
+  background-color: transparent;
+  transition: 0.3s;
+  font-family: "Open Sans";
+  border-style: solid;
+  outline: white;
+}
+.button-download:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+.button-download:active {
+  color: black;
+  background-color: white;
+}
+
+.project-box {
+  /* Type */
+  display: flex;
+  flex-direction: column;
+  /* Position */
+  justify-content: center;
+  align-items: center;
+  /* Size */
+  width: 50%;
+  height: 100%;
+  /* Appearance */
+  color: white;
+  background-color: #2A2F40;
+  font-size: 66px;
+  font-family: "Comfortaa";
+}
+#project-left {
+  float: left;
+  background-color: #2A2F40;
+}
+#project-right {
+  float: right;
+  background-color: #2d7bbf;
+}
+.project-description {
+  margin: 5px;
+  font-size: 14px;
+  font-family: "Open Sans";
+}
