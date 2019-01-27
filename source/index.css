@@ -1,6 +1,10 @@
 @font-face {
   font-family: "Comfortaa";
-  src: url("./resources/Comfortaa.ttf"); /*URL to font*/
+  src: url("./resources/Comfortaa.ttf");
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("./resources/Gilroy.ttf");
 }
 
 html, body {
@@ -16,24 +20,25 @@ html, body {
   height: 100%;
 }
 
-.button-download {
+.button {
   /* Position */
-  margin: 25px;
+  margin: 24px;
   /* Size */
-  width: 175px;
-  height: 50px;
+  width: 180px;
+  height: 53px;
   /* Appearance */
   color: white;
   background-color: transparent;
   transition: 0.3s;
-  font-family: "Open Sans";
+  font-family: "Gilroy";
   border-style: solid;
   outline: white;
+  border-radius: 5px;
 }
-.button-download:hover {
+.button:hover {
   background: rgba(255, 255, 255, 0.3);
 }
-.button-download:active {
+.button:active {
   color: black;
   background-color: white;
 }
@@ -46,7 +51,7 @@ html, body {
   justify-content: center;
   align-items: center;
   /* Size */
-  width: 50%;
+  width: 100%;
   height: 100%;
   /* Appearance */
   color: white;
@@ -54,16 +59,23 @@ html, body {
   font-size: 66px;
   font-family: "Comfortaa";
 }
-#project-left {
-  float: left;
-  background-color: #2A2F40;
-}
-#project-right {
-  float: right;
-  background-color: #2d7bbf;
-}
+
 .project-description {
   margin: 5px;
   font-size: 14px;
-  font-family: "Open Sans";
+  font-family: "Gilroy";
+}
+
+.project-actions {
+  display: flex;
+  flex-direction: row;
+}
+
+#project-wfcodex {
+  color: #B29E60;
+  background-color: #161620;
+}
+
+#project-wfcodex .project-description {
+  color: white;
 }
