@@ -103,11 +103,12 @@ html, body {
   display: flex;
   justify-content:center;
   align-items:center;
+  cursor: pointer;
+  user-select: none;
   /* Size */
   width: 300px;
   height: 100%;
   /* Appearance */
-  cursor: pointer;
   font-family: "Comfortaa";
 }
 #links #instagram img {
@@ -120,11 +121,12 @@ html, body {
   display: flex;
   justify-content:center;
   align-items:center;
+  cursor: pointer;
+  user-select: none;
   /* Size */
   width: 300px;
   height: 100%;
   /* Appearance */
-  cursor: pointer;
   color: white;
   font-family: "Comfortaa";
   font-size: 3.5vh;
@@ -135,11 +137,12 @@ html, body {
   display: flex;
   justify-content:center;
   align-items:center;
+  cursor: pointer;
+  user-select: none;
   /* Size */
   width: 300px;
   height: 100%;
   /* Appearance */
-  cursor: pointer;
   font-family: "Comfortaa";
 }
 #links #twitter img {
