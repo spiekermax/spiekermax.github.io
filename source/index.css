@@ -80,11 +80,11 @@ html, body {
   color: white;
 }
 
-#socials {
+#links {
   /* Type */
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   /* Position */
   position: fixed;
@@ -98,15 +98,51 @@ html, body {
   background-color: #2A2F40;
 }
 
-#socials #instagram {
+#links #instagram {
+  /* Type */
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  /* Size */
+  width: 300px;
+  height: 100%;
+  /* Appearance */
   cursor: pointer;
-  margin-right: 30px;
-  max-width: 50%;
-  max-height: 90%;
+  font-family: "Comfortaa";
 }
-#socials #twitter {
+#links #instagram img {
+  width: 95%;
+  height: 95%;
+}
+
+#links #privacy-policy {
+  /* Type */
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  /* Size */
+  width: 300px;
+  height: 100%;
+  /* Appearance */
   cursor: pointer;
-  margin-left: 30px;
-  max-width: 50%;
-  max-height: 90%;
+  color: white;
+  font-family: "Comfortaa";
+  font-size: 3.5vh;
+}
+
+#links #twitter {
+  /* Type */
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  /* Size */
+  width: 300px;
+  height: 100%;
+  /* Appearance */
+  cursor: pointer;
+  font-family: "Comfortaa";
+}
+#links #twitter img {
+  height: 95%;
+  width: 95%;
 }

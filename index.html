@@ -7,6 +7,7 @@
   
   <link rel="shortcut icon" type="image/png" href="source/resources/icon.png">
   <link rel="stylesheet" type="text/css" href="source/index.css">
+  <link rel="stylesheet" type="text/css" href="source/tooltip.css">  
 </head>
 
 <body>
@@ -25,9 +26,10 @@
       </div>
     </div>
   </div>
-  <div id="socials">
-    <img id="instagram" src="source/resources/instagram.svg" onclick="window.open('https://www.instagram.com/spiekermax/', '_blank');">
-    <img id="twitter" src="source/resources/twitter.svg" onclick="window.open('https://twitter.com/spiekermax', '_blank');">
+  <div id="links">
+    <div id="instagram" data-tooltip="Instagram" onclick="window.open('https://www.instagram.com/spiekermax/', '_blank');"><img src="source/resources/instagram.svg"></div>
+    <div id="privacy-policy" data-tooltip="Privacy Policy" onclick="window.open('https://spiekermax.github.io/privacy/', '_blank');">PP</div>
+    <div id="twitter" data-tooltip="Twitter" onclick="window.open('https://twitter.com/spiekermax', '_blank');"><img src="source/resources/twitter.svg"></div>
   </div>
 
   <script type="text/javascript" src="source/index.js"></script>
