@@ -36,6 +36,7 @@ html, body {
   border-radius: 5px;
 }
 .button:hover {
+  cursor: pointer;
   background: rgba(255, 255, 255, 0.3);
 }
 .button:active {
@@ -61,27 +62,24 @@ html, body {
 }
 
 .project-description {
-  margin: 5px;
+  margin: -5px;
   font-size: 14px;
   font-family: "Gilroy";
+}
+.project-description p {
+  text-align: center;
+}
+.project-description a {
+  cursor: pointer;
+  color: darkorchid;
+}
+.project-description a:hover {
+  text-decoration: underline;
 }
 
 .project-actions {
   display: flex;
   flex-direction: row;
-}
-
-.project-footer {
-  color: white;
-  font-size: 14px;
-  font-family: "Gilroy";
-}
-.project-footer a {
-  cursor: pointer;
-  color: darkorchid;
-}
-.project-footer a:hover {
-  text-decoration: underline;
 }
 
 #project-wfcodex {
@@ -105,7 +103,7 @@ html, body {
   bottom: 0;
   /* Size */
   width: 100%;
-  height: 5%;
+  height: 50px;
   /* Appearance */
   text-align: center;
   background-color: #2A2F40;
