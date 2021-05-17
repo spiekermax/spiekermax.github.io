@@ -1,0 +1,2020 @@
+[
+    {
+        "id": 1,
+        "name": "Community 1",
+        "size": 109,
+        "members": [
+            "marteria",
+            "officiallyjoko",
+            "thisiscro",
+            "siggismallz",
+            "latenightberlin",
+            "Elyas_MBarek",
+            "Lenas_view",
+            "PalinaRojinski",
+            "1LIVE",
+            "prinzpi23",
+            "koolsavas",
+            "forstermusic",
+            "TheVoiceGermany",
+            "sixxTV",
+            "adeltawil",
+            "kloeterklikke",
+            "OKMagazin",
+            "GLAMOUR_DE",
+            "Frauenarzt",
+            "Calmund",
+            "Hiphopde",
+            "mc_fitti",
+            "rapde",
+            "VeronicaFerres",
+            "lukemockridge",
+            "rockamring",
+            "16barsde",
+            "alligatoah",
+            "eventimDE",
+            "Sultanhengzt",
+            "playboy_d",
+            "SimonGosejohann",
+            "cstuermer",
+            "jujuviervier",
+            "VisaVie1",
+            "Fritz_offiziell",
+            "NJOYDE",
+            "Kraftklub",
+            "TVtotal",
+            "SILBERMOND",
+            "JuiceMagazin",
+            "modeselektor",
+            "OfficialMoTrip",
+            "FLER",
+            "allesbackspin",
+            "haftoffiziell",
+            "SEEED",
+            "RAderLehra",
+            "K_I_Z_",
+            "kollegah",
+            "Andrea_Berg",
+            "gala",
+            "MTV_Germany",
+            "vivaonline",
+            "PSAIKODINO",
+            "rtl2",
+            "vodafone_de",
+            "GQ_Germany",
+            "GalileoLIVE",
+            "sat1",
+            "ProSieben",
+            "NelaLee",
+            "kesslermichael",
+            "kabeleins",
+            "fettesbrot",
+            "jenlxne",
+            "johannesstrate",
+            "kostjaullmann",
+            "flomeint",
+            "RTLde",
+            "oliverpocher",
+            "SILLAofficial",
+            "Jimbonader",
+            "ThomallaSophia",
+            "SamsungDE",
+            "bendzko",
+            "simonbeeck",
+            "MSchweighoefer",
+            "thomasdofficial",
+            "donotsofficial",
+            "BUNTE",
+            "k_herfurth",
+            "RTL_DSDS",
+            "SUPERRTL",
+            "vanessamai",
+            "SaturnDE",
+            "BILD_Promis",
+            "VOXde",
+            "Ilka_Bessin",
+            "promiflash",
+            "nenaofficial",
+            "sarahconnorfc",
+            "thebosshoss",
+            "CosmopolitanDE",
+            "MaxRiemelt",
+            "Grace_Capristo",
+            "VOGUE_Germany",
+            "mariobarth",
+            "bourani",
+            "MissSMeis",
+            "_Helene_Fischer",
+            "Nazar10",
+            "MaxHerreMusik",
+            "Wacken",
+            "buelent_ceylan",
+            "peter_maffay",
+            "armedradio1",
+            "Radio_ENERGY",
+            "hmdeutschland"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Unterhaltung",
+                    "centroid": [
+                        4.925214391760528,
+                        -1.0752447969280183
+                    ],
+                    "size": 80,
+                    "radius": 6.388855800130128
+                }
+            ],
+            "1": [
+                {
+                    "name": "Rap",
+                    "size": 22,
+                    "centroid": [
+                        12.991684306751598,
+                        -4.884368354623968
+                    ],
+                    "radius": 1.6869641118575323
+                },
+                {
+                    "name": "Indie",
+                    "size": 15,
+                    "centroid": [
+                        3.0752821564674377,
+                        4.14379088083903
+                    ],
+                    "radius": 1.8971744061414857
+                },
+                {
+                    "name": "TV & Pop",
+                    "size": 56,
+                    "centroid": [
+                        6.0926114695944955,
+                        -1.8206322590953536
+                    ],
+                    "radius": 4.020992618353826
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678460046184450",
+            "slug": "ba-v1-1-14036",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 0,
+        "name": "Community 0",
+        "size": 385,
+        "members": [
+            "damitdasklaas",
+            "NetflixDE",
+            "sternde",
+            "extra3",
+            "WWF_Deutschland",
+            "carolinkebekus",
+            "ZDFneo",
+            "TommiSchmitt",
+            "swr3",
+            "radioeins",
+            "betterplace_org",
+            "larsklingbeil",
+            "udolindenberg",
+            "SchulzundBoemi",
+            "KSchwanke",
+            "dietotenhosen",
+            "aurelmertz",
+            "SPIEGEL_EIL",
+            "zeitonline",
+            "Astro_Alex",
+            "tazgezwitscher",
+            "faznet",
+            "SZ",
+            "tagesschau",
+            "DasErste",
+            "dpa",
+            "ZDF",
+            "ZDFheute",
+            "stephanpalagan",
+            "derfreitag",
+            "SibylleBerg",
+            "Volker_Beck",
+            "ErikMarquardt",
+            "politicalbeauty",
+            "sixtus",
+            "krautreporter",
+            "MickyBeisenherz",
+            "teresabuecker",
+            "berlinerzeitung",
+            "EskenSaskia",
+            "Der_Postillon",
+            "saschalobo",
+            "ntvde",
+            "ralphruthe",
+            "dunjahayali",
+            "Tagesspiegel",
+            "niggi",
+            "maithi_nk",
+            "amnesty_de",
+            "Luisamneubauer",
+            "fr",
+            "ShahakShapira",
+            "GoeringEckardt",
+            "Volksverpetzer",
+            "FridayForFuture",
+            "SophiePassmann",
+            "dlfkultur",
+            "TiloJung",
+            "Afelia",
+            "marga_owski",
+            "drguidoknapp",
+            "elhotzo",
+            "Senficon",
+            "Besser_Deniz",
+            "twitkalk",
+            "BR_quer",
+            "clausvonwagner",
+            "SawsanChebli",
+            "NikolausBlome",
+            "kriegundfreitag",
+            "JungNaiv",
+            "correctiv_org",
+            "ebonyplusirony",
+            "pastewka",
+            "RenateKuenast",
+            "hashcrap",
+            "gruene_jugend",
+            "sasa_s",
+            "BR24",
+            "HasnainKazim",
+            "annewill",
+            "janboehm",
+            "cem_oezdemir",
+            "nicolediekmann",
+            "koesterfabian",
+            "Regendelfin",
+            "titanic",
+            "hazelbrugger",
+            "LutzvanderHorst",
+            "OomenBerlin",
+            "rki_de",
+            "c_drosten",
+            "nicosemsrott",
+            "DiePARTEI",
+            "Karl_Lauterbach",
+            "DIEZEIT",
+            "bodoramelow",
+            "derspiegel",
+            "uebermedien",
+            "AnjaReschke1",
+            "ReporterOG",
+            "CDU",
+            "AlexanderKekule",
+            "katjaberlin",
+            "roteskreuz_de",
+            "dlfnova",
+            "ARD_Presse",
+            "DLF",
+            "KonstantinNotz",
+            "lesmoureal",
+            "igorpianist",
+            "seawatchcrew",
+            "ArminRohde",
+            "KuttnerSarah",
+            "joschasauer",
+            "3sat",
+            "BahnAnsagen",
+            "ARDde",
+            "abendblatt",
+            "felix_lobrecht",
+            "Kachelmann",
+            "petertauber",
+            "gruenderszene",
+            "c_lindner",
+            "handelsblatt",
+            "morgenpost",
+            "wiwo",
+            "brandeins",
+            "t3n",
+            "StZ_NEWS",
+            "spreeblick",
+            "wuv",
+            "MEEDIA",
+            "republica",
+            "BMWi_Bund",
+            "NZ_Online",
+            "SPIEGELTV",
+            "Umweltbundesamt",
+            "Bitkom",
+            "WELT_Economy",
+            "heuteplus",
+            "fmpreuss",
+            "ulfposh",
+            "gutjahr",
+            "DoroBaer",
+            "DStartups",
+            "manager_magazin",
+            "FAZ_Wirtschaft",
+            "BVG_Kampagne",
+            "ARTEde",
+            "PrimeVideoDE",
+            "bzberlin",
+            "BMFSFJ",
+            "rbbabendschau",
+            "visitberlin",
+            "s_bahn_berlin",
+            "JulianRoepcke",
+            "zdfmagazin",
+            "sundb",
+            "RegSprecher",
+            "Berliner_Fw",
+            "polizeiberlin",
+            "CohnWilliam",
+            "focusonline",
+            "a_watch",
+            "tagesthemen",
+            "bund_net",
+            "campact",
+            "NABU_de",
+            "katjakipping",
+            "tierschutz_bund",
+            "JTrittin",
+            "frheinrich",
+            "foodwatch_de",
+            "fraubauerfeind",
+            "PolizeiSachsen",
+            "dw_kultur",
+            "BMJV_Bund",
+            "rbb24",
+            "georgrestle",
+            "RegierungBW",
+            "AnonNewsDE",
+            "Junge_Union",
+            "katarinabarley",
+            "Faktillon",
+            "MDRAktuell",
+            "tperlen",
+            "TStraeter44149",
+            "ardmoma",
+            "Umwelthilfe",
+            "greenpeace_de",
+            "heuteshow",
+            "KuehniKev",
+            "DWDL",
+            "BILDblog",
+            "heiseonline",
+            "MartinSonneborn",
+            "Linksfraktion",
+            "erzaehlmirnix",
+            "kressZwitscher",
+            "digiges",
+            "Piratenpartei",
+            "ZappMM",
+            "chaosupdates",
+            "Die_Gruenen",
+            "netzpolitik",
+            "NZZ",
+            "_FriedrichMerz",
+            "spdde",
+            "HeikoMaas",
+            "WDRaktuell",
+            "WELTAMSONNTAG",
+            "peteraltmaier",
+            "sigmargabriel",
+            "Markus_Soeder",
+            "CSU",
+            "cicero_online",
+            "ManuelaSchwesig",
+            "GrueneBundestag",
+            "cducsubt",
+            "phoenix_de",
+            "akk",
+            "OlafScholz",
+            "ArminLaschet",
+            "ABaerbock",
+            "hendrikstreeck",
+            "jreichelt",
+            "kloeppelpeter",
+            "BMF_Bund",
+            "JuliaKloeckner",
+            "SWRAktuellBW",
+            "wbuechner",
+            "AnneWillTalk",
+            "robinalexander_",
+            "jensspahn",
+            "fdp",
+            "sebastiankurz",
+            "Ingo_Zamperoni",
+            "Europarl_DE",
+            "hubertus_heil",
+            "ClausKleber",
+            "BMAS_Bund",
+            "BMI_Bund",
+            "AuswaertigesAmt",
+            "janfleischhauer",
+            "bmu",
+            "stefanaust",
+            "morgenmagazin",
+            "express24",
+            "uwz_de",
+            "tzmuenchen",
+            "NN_Online",
+            "PETADeutschland",
+            "dieLinke",
+            "DLR_next",
+            "Welthungerhilfe",
+            "ThomasOppermann",
+            "DWD_presse",
+            "ARD_BaB",
+            "jusos",
+            "Attacd",
+            "Wahlrecht_de",
+            "MdB_Stroebele",
+            "welt",
+            "spiegelonline",
+            "Pommes_Ruppel",
+            "spdbt",
+            "berlindirekt",
+            "ndr",
+            "zeitonline_pol",
+            "heutejournal",
+            "SZ_Politik",
+            "SPIEGEL_Politik",
+            "szmagazin",
+            "dw_deutsch",
+            "SZ_TopNews",
+            "WELT_Politik",
+            "FAZ_Politik",
+            "BMG_Bund",
+            "JanJosefLiefers",
+            "bundesrat",
+            "Wetter24",
+            "zeitonline_wir",
+            "Telekom_hilft",
+            "DieMaus",
+            "Pontifex_de",
+            "OTTOausE",
+            "herbstblond",
+            "tagesschau_eil",
+            "MartinSchulz",
+            "PolizeiHamburg",
+            "neon_magazin",
+            "hamburg_de",
+            "mopo",
+            "hochbahn",
+            "Polizei_Ffm",
+            "DLR_de",
+            "bzga_de",
+            "zeitonline_dig",
+            "SPIEGEL_Wissen",
+            "PolizeiBerlin_E",
+            "BILD",
+            "123top10",
+            "SPIEGEL_Netz",
+            "FAZ_Feuilleton",
+            "WAZ_Redaktion",
+            "rponline",
+            "ReporterZDF",
+            "aktuelle_stunde",
+            "polizei_nrw_k",
+            "rlpNews",
+            "SWagenknecht",
+            "bka",
+            "PolizeiMuenchen",
+            "Lufthansa_DE",
+            "Stadt_FFM",
+            "nuernberg_de",
+            "Duesseldorf",
+            "FeuerwehrHH",
+            "DB_Info",
+            "Berlin_de_News",
+            "CHIP_online",
+            "golem",
+            "GolemRedaktion",
+            "RheinZeitung",
+            "DietmarBartsch",
+            "GregorGysi",
+            "SPIEGEL_alles",
+            "SPIEGEL_Top",
+            "BILD_News",
+            "Weltwoche",
+            "PP_Stuttgart",
+            "dieternuhr",
+            "FAZ_RheinMain",
+            "HAZ",
+            "taqadum",
+            "VivianeRedingEU",
+            "SZ_Wirtschaft",
+            "Tatort",
+            "Wurfschuh",
+            "DB_Bahn",
+            "StadtLeipzig",
+            "Kachelmannwettr",
+            "hessenschau",
+            "bundeswehrInfo",
+            "bpol_b",
+            "SPIEGEL_live",
+            "FOCUS_TopNews",
+            "heise_topnews",
+            "schmitt_it",
+            "law_forensic",
+            "Perspektive360",
+            "art_magazin",
+            "DonJoschi",
+            "dw_learngerman",
+            "FAZ_Eil",
+            "rtl_aktuell",
+            "memetsimsek",
+            "Smuda_Berlin",
+            "LVZ",
+            "streckenagent_M",
+            "SBahnBerlin",
+            "feuerwehrffm",
+            "faktastisch",
+            "zeitonline_kul",
+            "VWGroup",
+            "SPIEGEL_Wirtsch",
+            "WetterOnline",
+            "vonDaeniken",
+            "archive_mag",
+            "fredykoglin",
+            "BVG_Ubahn",
+            "DeutscheBankAG",
+            "heisec",
+            "ArianeGroup",
+            "globaldatamaker",
+            "brettermacher",
+            "CanAnayasa",
+            "SPIEGEL_Kultur",
+            "WELT_Kultur",
+            "SPIEGEL_Rezens",
+            "gkiwa44",
+            "Dukascopy_TV_DE",
+            "1Wampel",
+            "Cud__digital"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Gemeinwesen",
+                    "centroid": [
+                        -20.756372564179557,
+                        -0.12519089175122125
+                    ],
+                    "size": 385,
+                    "radius": 15.505784412383552
+                }
+            ],
+            "1": [
+                {
+                    "name": "News",
+                    "size": 72,
+                    "centroid": [
+                        -22.89587100346883,
+                        -15.489124602741665
+                    ],
+                    "radius": 4.7130854853555935
+                },
+                {
+                    "name": "Moderatoren & TV",
+                    "size": 21,
+                    "centroid": [
+                        -4.017479675156729,
+                        7.880896659124465
+                    ],
+                    "radius": 1.969297893105335
+                },
+                {
+                    "name": "Politik",
+                    "size": 95,
+                    "centroid": [
+                        -29.04261934380782,
+                        4.719459112557141
+                    ],
+                    "radius": 6.143887044246113
+                },
+                {
+                    "name": "News",
+                    "size": 28,
+                    "centroid": [
+                        -26.99921022142683,
+                        -5.4150383813040595
+                    ],
+                    "radius": 3.3584945318290025
+                },
+                {
+                    "name": "Satire",
+                    "size": 27,
+                    "centroid": [
+                        -10.035412823712385,
+                        14.85780864291721
+                    ],
+                    "radius": 2.1420587105287505
+                },
+                {
+                    "name": "Journalisten & Politiker",
+                    "size": 30,
+                    "centroid": [
+                        -16.57256514231364,
+                        13.022756512959798
+                    ],
+                    "radius": 2.5024585788832456
+                },
+                {
+                    "name": "Öffentliche Ordnung",
+                    "size": 25,
+                    "centroid": [
+                        -15.657555351257324,
+                        -1.741427194327116
+                    ],
+                    "radius": 2.114203299133807
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678461711327236",
+            "slug": "ba-v1-0-11417",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Community 2",
+        "size": 140,
+        "members": [
+            "matshummels",
+            "SPORT1",
+            "ThomasHitz",
+            "JuliaScharf",
+            "WMWohnzimmer",
+            "arminia",
+            "MatthiasDersch",
+            "73Kretzschmar",
+            "11Freunde_de",
+            "TheBorisBecker",
+            "DAZN_DE",
+            "DFB_Team",
+            "HansSarpei",
+            "Icke41",
+            "_Laurence_Motor",
+            "MatzeGinter",
+            "BVB",
+            "sportschau",
+            "ZDFsport",
+            "borussia",
+            "SPORTBILD",
+            "ZDFsportstudio",
+            "fifacom_de",
+            "fifaworldcup_de",
+            "zwwdf",
+            "ransport",
+            "DFB",
+            "bscontent",
+            "Transfermarkt",
+            "DFB_Junioren",
+            "RBuerki1",
+            "JensGrittner",
+            "11Freunde_Red",
+            "OptaFranz",
+            "fums_magazin",
+            "Sebastianrode20",
+            "michaelpreetz",
+            "lourichter",
+            "HerthaBSC",
+            "HSV",
+            "fckoeln",
+            "werderbremen",
+            "Eintracht",
+            "bayer04fussball",
+            "VfB",
+            "Hannover96",
+            "matzeknop",
+            "VfL_Wolfsburg",
+            "Haragen24",
+            "1_fc_nuernberg",
+            "scfreiburg",
+            "arnefriedrich",
+            "WolffFuss",
+            "tsghoffenheim",
+            "FCAugsburg",
+            "1FSVMainz05",
+            "WELT_Sport",
+            "f95",
+            "Horst_Eckel",
+            "Rote_Teufel",
+            "Fanorakel",
+            "fcunion",
+            "TSV1860",
+            "EintrachtBSNews",
+            "VfLBochum1848eV",
+            "sv98",
+            "DFB_Pokal",
+            "MatthiasKilling",
+            "KarlsruherSC",
+            "SPORT1_Dopa",
+            "Mazingu_Dinzey",
+            "Schanzer",
+            "SCPaderborn07",
+            "Bundesliga_DE",
+            "MOpdenhoevel",
+            "kicker_bl_li",
+            "fcstpauli",
+            "FCBayern",
+            "SPIEGEL_Sport",
+            "FCBjuniorteam",
+            "DOSB",
+            "s04",
+            "DynamoDresden",
+            "SZ_Sport",
+            "zeitonlinesport",
+            "DieRotenBullen",
+            "FCErzgebirgeAue",
+            "fcbayern_news",
+            "SeppBlatter",
+            "Podolski10",
+            "BILD_Sport",
+            "Mariobasler",
+            "LewisHoltby",
+            "cfbayern",
+            "AndreaKaiser",
+            "srfsport",
+            "leongoretzka_",
+            "BILD_National11",
+            "EsumePatrick",
+            "thw_handball",
+            "fsv_frankfurt",
+            "NFLDeutschland",
+            "KeVolland",
+            "OliverKahn",
+            "philipplahm",
+            "Manuel_Neuer",
+            "LauraWontorra",
+            "kicker_live",
+            "BSchweinsteiger",
+            "stern_sofa",
+            "Koelner_Haie_72",
+            "Mario_Gomez",
+            "officialbrandao",
+            "Sky_Lierhaus",
+            "FAZ_Sport",
+            "JuanBernat",
+            "sebastiankehl",
+            "ToniKroos",
+            "BeneHoewedes",
+            "TTuchelofficial",
+            "Maria",
+            "beckenbauer",
+            "MarcellJansen",
+            "LorisKarius",
+            "Fussball_Bild",
+            "marcelkittel",
+            "Omarmascarell39",
+            "AndreasBeck87",
+            "FCBasel1893",
+            "wataru0209",
+            "TBoyd91",
+            "HazardThorgan8",
+            "RNBVB",
+            "BounaSarr_10",
+            "atincnukan93",
+            "kadlec_michal",
+            "PetterNorthugJr",
+            "teomakinen",
+            "MiikoAlbornoz",
+            "timblnt"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Sport",
+                    "centroid": [
+                        13.021748297285326,
+                        36.26144267544888
+                    ],
+                    "size": 101,
+                    "radius": 6.289781368802032
+                }
+            ],
+            "1": [
+                {
+                    "name": "BVB",
+                    "size": 6,
+                    "centroid": [
+                        15.720774332682291,
+                        40.07922490437826
+                    ],
+                    "radius": 1.2770971064964185
+                },
+                {
+                    "name": "Vereine",
+                    "size": 48,
+                    "centroid": [
+                        8.945434669653574,
+                        41.46661567687988
+                    ],
+                    "radius": 3.3120555919238193
+                },
+                {
+                    "name": "Sportler",
+                    "size": 62,
+                    "centroid": [
+                        15.36068602531187,
+                        34.29011950954314
+                    ],
+                    "radius": 3.9388366867082385
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678464001449985",
+            "slug": "ba-v1-2-20159",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Community 6",
+        "size": 146,
+        "members": [
+            "izziofficial",
+            "MissesVlog",
+            "Sarazarlp",
+            "phillaude",
+            "prodbymary",
+            "MrTrashpack",
+            "AbgegrieftHD",
+            "Gronkh",
+            "rezomusik",
+            "budnoob",
+            "flogregorzyk",
+            "oguz",
+            "kidd",
+            "unge",
+            "Taddl",
+            "LenaVanille",
+            "NebelNiek",
+            "Niacavaon",
+            "KatiKarenina",
+            "JonahPschl",
+            "StaiyLIVE",
+            "TrilluXe",
+            "FelixLaden",
+            "alextv",
+            "earliboy",
+            "BergmannToGo",
+            "FelixRotpilz",
+            "Br4mm3n",
+            "TimTimolia",
+            "brosator",
+            "Bimon",
+            "DelayLP",
+            "Internetsaft",
+            "maximmarkow",
+            "ArazhulHD",
+            "twintvofficial",
+            "manultzen",
+            "RickGPunkt",
+            "H0llyLP",
+            "HoneyballCookie",
+            "knuspertoast",
+            "DerHauge",
+            "coldmirror",
+            "Herr_Currywurst",
+            "EtienneToGo",
+            "germanbombshell",
+            "TobinatorLP",
+            "TheRocketBeans",
+            "BIGCLANgg",
+            "rewinside",
+            "LeFloid",
+            "iBlali",
+            "DebitorLP",
+            "KlenganTV",
+            "HandIOfIBlood",
+            "UbisoftDE",
+            "DennisWerth_",
+            "PietSmiet",
+            "FortniteDE",
+            "Sturmwaffel",
+            "GommeHD",
+            "mcky_tv",
+            "XboxDACH",
+            "Mexify",
+            "ZanderLP",
+            "byStegi",
+            "Papaplatte",
+            "catycake",
+            "JayPietsmiet",
+            "malternativ",
+            "NVIDIAGeForceDE",
+            "Venitroll",
+            "TwoEpicBuddies",
+            "BrokenThumbsTV",
+            "GommeHDnet",
+            "TwitchDE",
+            "Dhalucard",
+            "Peterle",
+            "hallodristyle",
+            "Shlorox",
+            "dannyreturns",
+            "LPmitKev",
+            "kompetenzGHG",
+            "MrMoregame",
+            "asusrogde",
+            "NintendoDE",
+            "fimbim",
+            "PlayStationDE",
+            "Paluten",
+            "SepPietsmiet",
+            "PhunkRoyaI",
+            "BattlefieldEADE",
+            "Julien_Bam",
+            "maudado",
+            "AnniTheDuck",
+            "HeiderFlorian",
+            "echtallwissend",
+            "StevenSchuto",
+            "martimcflyscher",
+            "MiiMiiTV",
+            "SpaceFrogs",
+            "TANZVERBOTcf",
+            "TheRealKnossi",
+            "GermanLetsPlay",
+            "Zombey",
+            "xPandorya",
+            "reyst",
+            "boedefeld_",
+            "Domtendo",
+            "LoLSola",
+            "Lara_Loft",
+            "helloiamzeynep",
+            "Warcraft_DE",
+            "KutcherLoL",
+            "SpandauInferno",
+            "RevedTV",
+            "CraftingPat",
+            "DenisHartwig",
+            "Frodoapparat",
+            "SgtRumpel",
+            "JodieCalussi",
+            "BeHaind",
+            "PokemonGOdeu",
+            "Cheng_Loew",
+            "ToniPirosa",
+            "ZeoSite",
+            "Trymacs_YT",
+            "TheKedosZone",
+            "vincentleemusic",
+            "Joeys_Jungle",
+            "inscopenico",
+            "darkviktory",
+            "Chaosflo44",
+            "BlizzardCSEU_DE",
+            "KranCrafter",
+            "ps5botde",
+            "RazerGermany",
+            "ungespielt",
+            "datfcknadam",
+            "crispyrob",
+            "DC_Haptic",
+            "mokoffiziell",
+            "DieCrewPlayz",
+            "SummonersInnDE",
+            "gheed_com",
+            "GLPUPDATE"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Gaming",
+                    "centroid": [
+                        32.27789833121104,
+                        -18.8112309207655
+                    ],
+                    "size": 146,
+                    "radius": 8.509106608712255
+                }
+            ],
+            "1": [
+                {
+                    "name": "YouTube",
+                    "size": 58,
+                    "centroid": [
+                        37.52104798678694,
+                        -14.556190276968069
+                    ],
+                    "radius": 3.873749812672612
+                },
+                {
+                    "name": "Twitch",
+                    "size": 56,
+                    "centroid": [
+                        29.567216532570974,
+                        -22.812874180930002
+                    ],
+                    "radius": 4.111698956506348
+                },
+                {
+                    "name": "Sonstiges",
+                    "size": 19,
+                    "centroid": [
+                        21.445825978329307,
+                        -19.429888273540296
+                    ],
+                    "radius": 2.3819514698818973
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678466262142989",
+            "slug": "ba-v1-6-12681",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Community 3",
+        "size": 63,
+        "members": [
+            "dielochis",
+            "bravomagazin",
+            "LochisHeiko",
+            "derTC",
+            "TZON57",
+            "LaiIaSlimani",
+            "cbas",
+            "BibisBeauty",
+            "TheRealLiont",
+            "dimakoslowski",
+            "kayefofficial",
+            "ShantiJoanTan",
+            "DominoKati",
+            "thebeauty2go",
+            "julienco_",
+            "JuliaBeautx",
+            "xLaeta",
+            "nhitastic",
+            "DianazurLoewen",
+            "ShirinDavid",
+            "NilamFarooq",
+            "IschtarIsik",
+            "BeautyPeachiii",
+            "LamiyaSlimani",
+            "SamiSlimani",
+            "dagibee",
+            "PaolaMariaONE",
+            "tobiwez",
+            "freekickerz",
+            "fackjugoehte",
+            "freshtorge",
+            "JoyceIlg",
+            "Bonnie_strange",
+            "Y_Titty",
+            "ApeCrime",
+            "diese_ramona",
+            "DouniaSlimani",
+            "annamaria",
+            "DammKatharina",
+            "MrvynMCnificent",
+            "Nihan0311",
+            "MelinaSophie",
+            "BullshitTV",
+            "hellosarahliz",
+            "cengiz",
+            "janmeyer",
+            "lenimariee",
+            "LeonMachere",
+            "SwieSASCHA",
+            "emrahtekin",
+            "FelixJaehn",
+            "miikesinger",
+            "SimonDesue",
+            "ALahsoussi",
+            "HichamLahsoussi",
+            "eugenkazakov",
+            "MedizinDoc",
+            "ReginaHixt",
+            "anton_banderas7",
+            "DoertheBi",
+            "DummeWitze",
+            "_LifeWithMelina",
+            "LlONTTV"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Social Media",
+                    "centroid": [
+                        35.854987388433415,
+                        -2.43411564653696
+                    ],
+                    "size": 43,
+                    "radius": 2.9629267311833276
+                }
+            ],
+            "1": [
+                {
+                    "name": "Social Media",
+                    "size": 55,
+                    "centroid": [
+                        35.84512072476474,
+                        -2.732849789478562
+                    ],
+                    "radius": 3.570984137844677
+                },
+                {
+                    "name": "Lifestyle",
+                    "size": 7,
+                    "centroid": [
+                        26.603198187691824,
+                        -3.157502753393991
+                    ],
+                    "radius": 0.9907334122971873
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678468405440516",
+            "slug": "ba-v1-3-15831",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Community 9",
+        "size": 2,
+        "members": [
+            "HuffPostDE",
+            "KaiDiekmann"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -15.117932319641113,
+                        -10.357556819915771
+                    ],
+                    "size": 2,
+                    "radius": 0.006422746734180015
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 2,
+                    "centroid": [
+                        -15.117932319641113,
+                        -10.357556819915771
+                    ],
+                    "radius": 0.006422746734180015
+                }
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Community 7",
+        "size": 30,
+        "members": [
+            "misik",
+            "florianklenk",
+            "Gawhary",
+            "ArminWolf",
+            "DieTagespresse",
+            "DiePressecom",
+            "profilonline",
+            "lou_lorenz",
+            "RomanRafreider",
+            "WKogler",
+            "foederlschmid",
+            "KernChri",
+            "corinnamilborn",
+            "IngridThurnher",
+            "MichiBuchinger",
+            "LPDWien",
+            "HBrandstaetter",
+            "NEWS",
+            "michelreimon",
+            "derStandardat",
+            "matstrolz",
+            "ORF",
+            "MartinThuer",
+            "vanderbellen",
+            "krone_at",
+            "ORFBreakingNews",
+            "HannoSettele",
+            "falter_at",
+            "webstandardat",
+            "KURIERat"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Österreich",
+                    "centroid": [
+                        -36.50738242820457,
+                        -14.288582377963596
+                    ],
+                    "size": 27,
+                    "radius": 2.3709478938677635
+                }
+            ],
+            "1": [
+                {
+                    "name": "Österreich",
+                    "size": 27,
+                    "centroid": [
+                        -36.50738242820457,
+                        -14.288582377963596
+                    ],
+                    "radius": 2.3709478938677635
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678472440303616",
+            "slug": "ba-v1-7-17117",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Community 14",
+        "size": 3,
+        "members": [
+            "BrinkmannLab",
+            "CiesekSandra",
+            "florian_krammer"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -18.245229721069336,
+                        14.863780975341797
+                    ],
+                    "size": 2,
+                    "radius": 0.03516162564857391
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 2,
+                    "centroid": [
+                        -18.245229721069336,
+                        14.863780975341797
+                    ],
+                    "radius": 0.03516162564857391
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678474512375811",
+            "slug": "ba-v1-14-13757",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Community 13",
+        "size": 3,
+        "members": [
+            "beyond_ideology",
+            "sciforfuture",
+            "VQuaschning"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -16.81436030069987,
+                        15.32468064626058
+                    ],
+                    "size": 3,
+                    "radius": 0.35247535163870597
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 3,
+                    "centroid": [
+                        -16.81436030069987,
+                        15.32468064626058
+                    ],
+                    "radius": 0.35247535163870597
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678476735320065",
+            "slug": "ba-v1-13-64627",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Community 5",
+        "size": 14,
+        "members": [
+            "MontanaBlack",
+            "EAFussball",
+            "NoHandGamingYT",
+            "EliasN97",
+            "KamoLRF",
+            "GamerBr0ski",
+            "ViscaBarcaCoD",
+            "MoAuba",
+            "JuliusFGU",
+            "TisiSchubecH",
+            "MarcelScorpion",
+            "flyinguwe",
+            "ELoTRiX",
+            "GunElite"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "FIFA",
+                    "centroid": [
+                        33.79912390027727,
+                        -29.382440975734166
+                    ],
+                    "size": 14,
+                    "radius": 1.6521117594251573
+                }
+            ],
+            "1": [
+                {
+                    "name": "FIFA",
+                    "size": 14,
+                    "centroid": [
+                        33.79912390027727,
+                        -29.382440975734166
+                    ],
+                    "radius": 1.6521117594251573
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678478677331975",
+            "slug": "ba-v1-5-48208",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Community 11",
+        "size": 16,
+        "members": [
+            "20min_digital",
+            "20min",
+            "Nikhartmann",
+            "tagesanzeiger",
+            "StadtpolizeiZH",
+            "Blickch",
+            "hypebyblick",
+            "srf3",
+            "watson_news",
+            "SteffiBuchli",
+            "SRF",
+            "RailService",
+            "alain_berset",
+            "migros",
+            "schweiz",
+            "srfnews"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Schweiz",
+                    "centroid": [
+                        -31.54346752166748,
+                        -12.600419521331787
+                    ],
+                    "size": 6,
+                    "radius": 1.2623490014022372
+                }
+            ],
+            "1": [
+                {
+                    "name": "Schweiz",
+                    "size": 6,
+                    "centroid": [
+                        -31.54346752166748,
+                        -12.600419521331787
+                    ],
+                    "radius": 1.2623490014022372
+                },
+                {
+                    "name": "Schweiz",
+                    "size": 3,
+                    "centroid": [
+                        -23.92636235555013,
+                        -13.650418599446615
+                    ],
+                    "radius": 0.2654172247704292
+                },
+                {
+                    "name": "Schweiz",
+                    "size": 4,
+                    "centroid": [
+                        -22.696298122406006,
+                        -5.575653553009033
+                    ],
+                    "radius": 0.8722498843950532
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678480719843333",
+            "slug": "ba-v1-11-13931",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Community 19",
+        "size": 3,
+        "members": [
+            "GoogleDE",
+            "deutschetelekom",
+            "TwitterDE"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Tech",
+                    "centroid": [
+                        -11.485759735107422,
+                        -10.799005826314291
+                    ],
+                    "size": 3,
+                    "radius": 0.4547156371218769
+                }
+            ],
+            "1": [
+                {
+                    "name": "Tech",
+                    "size": 3,
+                    "centroid": [
+                        -11.485759735107422,
+                        -10.799005826314291
+                    ],
+                    "radius": 0.4547156371218769
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678482758160384",
+            "slug": "ba-v1-19-10265",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Community 10",
+        "size": 7,
+        "members": [
+            "RolandTichy",
+            "AfD",
+            "HGMaassen",
+            "SteinbachErika",
+            "Alice_Weidel",
+            "Joerg_Meuthen",
+            "reitschuster"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "AFD",
+                    "centroid": [
+                        -37.123870849609375,
+                        -1.664840845125062
+                    ],
+                    "size": 7,
+                    "radius": 0.8485254888658139
+                }
+            ],
+            "1": [
+                {
+                    "name": "AFD",
+                    "size": 7,
+                    "centroid": [
+                        -37.123870849609375,
+                        -1.664840845125062
+                    ],
+                    "radius": 0.8485254888658139
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678484779995138",
+            "slug": "ba-v1-10-97305",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Community 15",
+        "size": 3,
+        "members": [
+            "dw_wissenschaft",
+            "spektrum",
+            "helmholtz_de"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Wissenschaft",
+                    "centroid": [
+                        -26.31572977701823,
+                        11.700300216674805
+                    ],
+                    "size": 3,
+                    "radius": 0.336478141743785
+                }
+            ],
+            "1": [
+                {
+                    "name": "Wissenschaft",
+                    "size": 3,
+                    "centroid": [
+                        -26.31572977701823,
+                        11.700300216674805
+                    ],
+                    "radius": 0.336478141743785
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678487086796801",
+            "slug": "ba-v1-15-21286",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Community 22",
+        "size": 2,
+        "members": [
+            "stadtdortmund",
+            "RN_DORTMUND"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -9.580440521240234,
+                        -13.296118259429932
+                    ],
+                    "size": 2,
+                    "radius": 0.011970517954452364
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 2,
+                    "centroid": [
+                        -9.580440521240234,
+                        -13.296118259429932
+                    ],
+                    "radius": 0.011970517954452364
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Community 18",
+        "size": 19,
+        "members": [
+            "besserwerber",
+            "TorstenNeumann",
+            "oskato",
+            "affiliate",
+            "regioortenau",
+            "rrb_immobilien",
+            "Designspotter",
+            "Oberhauser",
+            "SunnyRainer",
+            "analphabeta",
+            "twitt_erfolg_de",
+            "heiternet",
+            "Doc_Sibylle",
+            "ali500300500",
+            "ARamadan_DE",
+            "twistedmalemag",
+            "WillingAbleLLC",
+            "JuergenAuer",
+            "magento"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Marketing",
+                    "centroid": [
+                        -15.734584331512451,
+                        -21.489370918273927
+                    ],
+                    "size": 10,
+                    "radius": 0.9720079344540157
+                }
+            ],
+            "1": [
+                {
+                    "name": "Marketing",
+                    "size": 10,
+                    "centroid": [
+                        -15.734584331512451,
+                        -21.489370918273927
+                    ],
+                    "radius": 0.9720079344540157
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678491239227393",
+            "slug": "ba-v1-18-75166",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Community 23",
+        "size": 2,
+        "members": [
+            "mertesacker",
+            "seadk6"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        22.58547019958496,
+                        33.82695960998535
+                    ],
+                    "size": 2,
+                    "radius": 0.03636528905019487
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 2,
+                    "centroid": [
+                        22.58547019958496,
+                        33.82695960998535
+                    ],
+                    "radius": 0.03636528905019487
+                }
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "name": "Community 16",
+        "size": 2,
+        "members": [
+            "KSTA",
+            "koeln_de"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -14.559953212738037,
+                        -6.941888332366943
+                    ],
+                    "size": 2,
+                    "radius": 0.05759691213842805
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 2,
+                    "centroid": [
+                        -14.559953212738037,
+                        -6.941888332366943
+                    ],
+                    "radius": 0.05759691213842805
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "name": "Community 29",
+        "size": 2,
+        "members": [
+            "HotBoysLove",
+            "GaysPro"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        21.248600006103516,
+                        38.98851776123047
+                    ],
+                    "size": 1,
+                    "radius": 0
+                }
+            ],
+            "1": []
+        }
+    },
+    {
+        "id": 8,
+        "name": "Community 8",
+        "size": 25,
+        "members": [
+            "ModelRoxxyX",
+            "LenaNitro1",
+            "LexyyLoou",
+            "milaelaine1",
+            "LenaHeart3",
+            "MeliDeluxe",
+            "coxx_cat",
+            "TaylorBurtonhot",
+            "bibixxx90",
+            "JolyneJoy",
+            "SweetMelli84",
+            "Julietta_com",
+            "LucyCatOfficial",
+            "LilliePrivat",
+            "TightTini",
+            "LeoniePur",
+            "FariBanx",
+            "nightkiss661",
+            "VikaViktoriaCam",
+            "DayniaXXX",
+            "HollyBanks007",
+            "lexyroxxcom",
+            "JuliaPinkcom",
+            "SweetSophiede",
+            "bbw_frauen"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "Pornographie",
+                    "centroid": [
+                        17.07550720941453,
+                        4.850527252469744
+                    ],
+                    "size": 21,
+                    "radius": 1.397757541553076
+                }
+            ],
+            "1": [
+                {
+                    "name": "Pornographie",
+                    "size": 21,
+                    "centroid": [
+                        17.07550720941453,
+                        4.850527252469744
+                    ],
+                    "radius": 1.397757541553076
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678499430633472",
+            "slug": "ba-v1-8-15263",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Community 12",
+        "size": 3,
+        "members": [
+            "muenchen",
+            "StadtMuenchen",
+            "SZ_Muenchen"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -17.067304611206055,
+                        -10.139060974121094
+                    ],
+                    "size": 3,
+                    "radius": 0.19201543385531586
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 3,
+                    "centroid": [
+                        -17.067304611206055,
+                        -10.139060974121094
+                    ],
+                    "radius": 0.19201543385531586
+                }
+            ]
+        },
+        "twitterList": {
+            "id": "1390678501725020161",
+            "slug": "ba-v1-12-71143",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Community 17",
+        "size": 2,
+        "members": [
+            "MikeMuellerLate",
+            "viktorgiacobbo"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -40.09430694580078,
+                        -9.790667533874512
+                    ],
+                    "size": 2,
+                    "radius": 0.014562415026168167
+                }
+            ],
+            "1": [
+                {
+                    "name": "TODO",
+                    "size": 2,
+                    "centroid": [
+                        -40.09430694580078,
+                        -9.790667533874512
+                    ],
+                    "radius": 0.014562415026168167
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Community 25",
+        "size": 2,
+        "members": [
+            "FollowEGM",
+            "PlayArtifact"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        20.848506927490234,
+                        -20.882442474365234
+                    ],
+                    "size": 1,
+                    "radius": 0
+                }
+            ],
+            "1": []
+        }
+    },
+    {
+        "id": 24,
+        "name": "Community 24",
+        "size": 3,
+        "members": [
+            "devilsflix",
+            "PornoSexBilder",
+            "DailyFittGirls"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -13.080479621887207,
+                        17.370927810668945
+                    ],
+                    "size": 1,
+                    "radius": 0
+                }
+            ],
+            "1": []
+        },
+        "twitterList": {
+            "id": "1390678508003803138",
+            "slug": "ba-v1-24-11028",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Community 28",
+        "size": 3,
+        "members": [
+            "paddingtonbear",
+            "BoneheadsPage",
+            "UltrasTifo"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        -6.0560688972473145,
+                        9.29672622680664
+                    ],
+                    "size": 1,
+                    "radius": 0
+                }
+            ],
+            "1": []
+        },
+        "twitterList": {
+            "id": "1390678509920690178",
+            "slug": "ba-v1-28-70530",
+            "user": "spiekermax"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Community 27",
+        "size": 2,
+        "members": [
+            "whgkdud_d",
+            "olys011"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        25.264652252197266,
+                        -24.138486862182617
+                    ],
+                    "size": 1,
+                    "radius": 0
+                }
+            ],
+            "1": []
+        }
+    },
+    {
+        "id": 26,
+        "name": "Community 26",
+        "size": 2,
+        "members": [
+            "video_168",
+            "radnature"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        4.012571334838867,
+                        7.435860633850098
+                    ],
+                    "size": 1,
+                    "radius": 0
+                }
+            ],
+            "1": []
+        }
+    },
+    {
+        "id": 20,
+        "name": "Community 20",
+        "size": 2,
+        "members": [
+            "KhleoThomas",
+            "CraigAnderson41"
+        ],
+        "hotspots": {
+            "0": [
+                {
+                    "name": "TODO",
+                    "centroid": [
+                        37.16481399536133,
+                        -28.712060928344727
+                    ],
+                    "size": 1,
+                    "radius": 0
+                }
+            ],
+            "1": []
+        }
+    }
+]
