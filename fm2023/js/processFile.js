@@ -69,7 +69,7 @@ function processAttribute(attribute) {
         }
         const rangeParts = attribute.split('-').map(part => parseInt(part, 10));
         if (rangeParts.length === 2 && rangeParts.every(part => !isNaN(part))) {
-            return (rangeParts[0] + rangeParts[1]) / 2;
+            return (rangeParts[0] * 0.6) + (rangeParts[1] * 0.4);
         }
         throw new Error(`Invalid range format for attribute '${attribute}'`);
     }

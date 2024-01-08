@@ -61,8 +61,8 @@ function calculateScores(tableData, seedData) {
 
                     let playerAttribute = processAttribute(player[attribute] || '0');
 
-                    totalScore += playerAttribute * weight;
-                    totalWeight += weight;
+                    totalScore += playerAttribute * ((weight * 2) + 1.5);
+                    totalWeight += ((weight * 2) + 1.5);
                 }
 
                 if (totalWeight > 0) {
