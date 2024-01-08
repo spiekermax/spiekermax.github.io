@@ -1,0 +1,16 @@
+#roleList {
+    flex-wrap: wrap;
+    max-height: 75vh; /* Adjust as needed */
+    overflow-y: auto;
+}
+
+@media (min-width: 992px) {
+    #roleList li {
+        width: 33.333%;
+        box-sizing: border-box;
+    }
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
