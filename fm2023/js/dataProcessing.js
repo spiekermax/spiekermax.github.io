@@ -37,6 +37,18 @@ async function loadSeedData() {
     }
 }
 
+const weightOffsets = {
+    "Acc": 0.5,
+    "Det": 0.5,
+    "Pac": 0.5,
+    "Agi": 0.3,
+    "Ant": 0.3,
+    "Bal": 0.3,
+    "Jum": 0.3,
+    "Cnt": 0.3,
+    "Dec": 0.2,
+}
+
 function calculateScores(tableData, seedData) {
     const startTime = Date.now();
     let errorOccurred = false;
@@ -59,10 +71,13 @@ function calculateScores(tableData, seedData) {
                         throw new Error(`Missing attribute '${attribute}' in player data`);
                     }
 
-                    let playerAttribute = processAttribute(player[attribute] || '0');
+                    // const playerAge = parseInt(player['Age']);
+                    const playerAttribute = processAttribute(player[attribute] || '0');
+                    
+                    const weightOffset = weightOffsets[attribute] ?? 0;
 
-                    totalScore += playerAttribute * ((weight * 2) + 1.5);
-                    totalWeight += ((weight * 2) + 1.5);
+                    totalScore += playerAttribute * (weight + weightOffset);
+                    totalWeight += weight + weightOffset;
                 }
 
                 if (totalWeight > 0) {
